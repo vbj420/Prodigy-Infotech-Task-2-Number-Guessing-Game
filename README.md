@@ -9,6 +9,4 @@ The metrics in the code are easily adjustable according to preferences ![s2](htt
 ![s1,jpg](https://github.com/vbj420/Prodigy-Infotech-Task-2-Number-Guessing-Game/assets/93514276/4e3e5153-def4-467b-b847-d41b01649a54)
 ![s4](https://github.com/vbj420/Prodigy-Infotech-Task-2-Number-Guessing-Game/assets/93514276/bb2fd09b-0a5c-47a8-a610-429bc8beb3bc)
 ![s3](https://github.com/vbj420/Prodigy-Infotech-Task-2-Number-Guessing-Game/assets/93514276/b57ac3ef-6168-4094-b881-6f203973a1e1)
-![Uploading image.png…]()
 ![image](https://github.com/vbj420/Prodigy-Infotech-Task-2-Number-Guessing-Game/assets/93514276/3d0ae232-22e0-418f-9b07-7a6537b5b351)
-![Uploading image.png…]()
